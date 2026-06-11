@@ -1,0 +1,466 @@
+# Russian translation by MrKoteo
+itemGroup.arcanearchives=Таинственные архивы
+arcanearchives.book.name=Фолиант тайн
+arcanearchives.book.landing_text=Этот фолиант содержит всё, что нужно знать о Таинственных архивах: от основ сияющего кварца до продвинутых устройств и тайных самоцветов.
+
+item.raw_quartz.name=Необработанный сияющий кварц
+item.shaped_quartz.name=Обработанный сияющий кварц
+item.empowered_quartz.name=Усиленный сияющий кварц
+
+item.containment_field.name=Поле сдерживания
+item.devouring_charm.name=Пожирающий талисман
+item.echo.name=Отзвуки непостижимого
+item.echo_typed.name=Отзвук %s
+item.gemsocket.name=Гнездо для самоцвета
+item.geomancy_pendulum.name=Геомантический маятник
+item.geomantic_map.name=Геомантическая карта
+item.manifest.name=Манифест
+item.material_interface.name=Материальный интерфейс
+item.matrix_brace.name=Матричная опора
+item.obstruction_charm.name=Талисман преграды
+item.radiant_amphora.name=Сияющая амфора
+item.radiant_dust.name=Сияющая пыль
+item.radiant_key.name=Сияющий ключ
+item.scepter_abduction.name=Скипетр похищения
+item.scepter_manipulation.name=Скипетр манипуляции
+item.scepter_translocation.name=Скипетр перемещения
+item.scepter_revelation.name=Скипетр откровения
+item.serenity_charm.name=Талисман безмятежности
+item.scintillating_inlay.name=Искристая инкрустация
+item.tome_arcana.name=Фолиант тайн
+item.tome_requisition.name=Фолиант реквизиции
+item.letter_invitation.name=Письмо-приглашение
+item.letter_resignation.name=Письмо об отказе
+item.writ_expulsion.name=Приказ об изгнании
+
+item.fabrial.name=Фабриал
+item.slaughtergleam.name=Сияние резни
+item.murdergleam.name=Сияние убийства
+item.agegleam.name=Сияние возраста
+item.cleansegleam.name=Сияние очищения
+item.switchgleam.name=Сияние переключения
+item.salvegleam.name=Сияние бальзама
+item.homingstone.name=Камень наведения
+item.munchstone.name=Камень пожирания
+item.transferstone.name=Камень передачи
+item.orderstone.name=Камень порядка
+item.glyphspindle.name=Веретено глифов
+item.mindspindle.name=Веретено разума
+item.elixirspindle.name=Веретено эликсира
+item.mountaintear.name=Горная слеза
+item.rivertear.name=Речная слеза
+item.parchtear.name=Засушивающая слеза
+item.pyreway.name=Путь костра
+item.phoenixway.name=Путь феникса
+item.stormway.name=Путь бури
+item.earthway.name=Путь земли
+item.nightway.name=Путь ночи
+
+item.chromatic_powder.name=Невозможно бесцветный хроматический порошок
+item.chromatic_powder.red.name=Красный хроматический порошок
+item.chromatic_powder.orange.name=Оранжевый хроматический порошок
+item.chromatic_powder.yellow.name=Жёлтый хроматический порошок
+item.chromatic_powder.green.name=Зелёный хроматический порошок
+item.chromatic_powder.cyan.name=Бирюзовый хроматический порошок
+item.chromatic_powder.blue.name=Синий хроматический порошок
+item.chromatic_powder.purple.name=Фиолетовый хроматический порошок
+item.chromatic_powder.pink.name=Розовый хроматический порошок
+item.chromatic_powder.black.name=Чёрный хроматический порошок
+item.chromatic_powder.white.name=Белый хроматический порошок
+item.full_spectrum_chromatic_powder.name=Полноспектральный хроматический порошок
+
+item.spiritorb.empty.name=Неаспектированная планетарная сфера
+item.spiritorb.crown_mote.name=Королевская сфера
+item.spiritorb.crown_juve.name=Великая королевская сфера
+item.spiritorb.crown_eld.name=Юпитерианская королевская сфера
+item.spiritorb.matter_mote.name=Материальная сфера
+item.spiritorb.matter_juve.name=Плотная материальная сфера
+item.spiritorb.matter_eld.name=Венерианская материальная сфера
+item.spiritorb.power_mote.name=Силовая сфера
+item.spiritorb.power_juve.name=Заряженная силовая сфера
+item.spiritorb.power_eld.name=Марсианская силовая сфера
+item.spiritorb.space_mote.name=Космическая сфера
+item.spiritorb.space_juve.name=Обширная космическая сфера
+item.spiritorb.space_eld.name=Меркурианская космическая сфера
+item.spiritorb.time_mote.name=Временная сфера
+item.spiritorb.time_juve.name=Древняя временная сфера
+item.spiritorb.time_eld.name=Сатурнианская временная сфера
+
+item.debugorb.name=Сфера прорицания Ди Богха
+
+tile.storage_raw_quartz.name=Блок необработанного сияющего кварца
+tile.storage_shaped_quartz.name=Блок обработанного сияющего кварца
+tile.quartz_sliver.name=Осколок света
+tile.raw_quartz_cluster.name=Скопление необработанного кварца
+
+tile.radiant_crafting_table.name=Сияющий верстак
+tile.radiant_chest.name=Сияющий сундук
+tile.radiant_furnace.name=Сияющая печь
+tile.radiant_lantern.name=Сияющий фонарь
+tile.radiant_resonator.name=Сияющий резонатор
+tile.radiant_trove.name=Сияющая сокровищница
+
+tile.brazier_of_hoarding.name=Жаровня накопительства
+tile.echoing_conformance_chamber.name=Эхо-камера соответствия
+tile.echoing_reverberation_chamber.name=Эхо-камера отражения
+tile.immanent_incubator.name=Имманентный инкубатор
+tile.monitoring_crystal.name=Контролирующий кристалл
+tile.spellbook_library.name=Библиотека заклинаний
+tile.verdant_censer.name=Зелёная кадильница
+
+tile.matrix_crystal_core.name=Кристальное матричное ядро
+tile.matrix_repository.name=Репозиторий матрица
+tile.matrix_storage.name=Хранилище матрица
+tile.matrix_reservoir.name=Резервуар матрица
+tile.matrix_distillate.name=Дистиллят матрица
+tile.celestial_lotus_engine.name=Небесный лотос-двигатель
+
+tile.lectern_manifest.name=Манифест-аналой
+tile.dominion_crystal.name=Кристалл господства
+tile.gemcutters_table.name=Стол огранщика самоцветов
+
+tile.radiant_tank.name=Сияющий резервуар
+
+entity.spirit_crown_01.name=Королевская пылинка
+entity.spirit_crown_02.name=Королевская ювена
+entity.spirit_crown_03.name=Королевский элд
+entity.spirit_matter_01.name=Материальная пылинка
+entity.spirit_matter_02.name=Материальная ювена
+entity.spirit_matter_03.name=Материальный элд
+entity.spirit_power_01.name=Силовая пылинка
+entity.spirit_power_02.name=Силовая ювена
+entity.spirit_power_03.name=Силовой элд
+entity.spirit_space_01.name=Космическая пылинка
+entity.spirit_space_02.name=Космическая ювена
+entity.spirit_space_03.name=Космический элд
+entity.spirit_time_01.name=Временная пылинка
+entity.spirit_time_02.name=Временная ювена
+entity.spirit_time_03.name=Временной элд
+
+arcanearchives.text.manifest.endtrackingbutton=Завершить отслеживание
+arcanearchives.text.matrixcore.importradiant=Импорт сияющего хранилища
+arcanearchives.text.matrixstorage.immanencelabel=Имманенция
+arcanearchives.text.matrixstorage.storagelabel=Общее хранилище
+arcanearchives.text.matrixrepository.immanencelabel=Имманенция
+arcanearchives.text.matrixrepository.storagelabel=Хранилище типов
+arcanearchives.text.radiantchest.unnamed_chest=Сундук без имени
+arcanearchives.text.brazier.radius=Радиус:
+arcanearchives.text.brazier.unlimited=Безлимитно
+arcanearchives.text.brazier.visualizer=Визуализатор
+arcanearchives.text.brazier.visualizer.enabled=Включён
+arcanearchives.text.brazier.visualizer.disabled=Отключён
+
+arcanearchives.error.toomanyplaced=Вы можете иметь только %d %s!
+arcanearchives.error.notenoughspace=Недостаточно места для размещения %s!
+arcanearchives.error.aboveworld=Размещение %s превысило бы лимит высоты построек!
+arcanearchives.error.invaliditemblock=Попытка разместить недействительный предмет с лимитом размещения, но без класса сущности.
+arcanearchives.error.invalidnetwork=Недействительная сеть. Упс!
+arcanearchives.error.upgrade_trove_failed=Не удалось улучшить сокровищницу. Текущий уровень улучшения: %d/%d.
+arcanearchives.error.upgrade_tank_failed=Не удалось улучшить резервуар. Текущий уровень улучшения: %d/%d.
+arcanearchives.error.trove_insertion_failed.full=Невозможно добавить больше предметов в эту сокровищницу.
+arcanearchives.error.trove_insertion_failed.wrong=Этот предмет не может храниться в этой сокровищнице.
+arcanearchives.error.monitoring_crystal=Найдено несколько контролирующих кристаллов, направленных на тот же блок: %d/%d/%d в измерении %d.
+arcanearchives.error.tankfull=Целевой сияющий резервуар не может принять больше жидкости.
+arcanearchives.error.tankmissing=Целевой сияющий резервуар отсутствует или не загружен.
+
+arcanearchives.success.upgraded_trove=Сокровищница улучшена до уровня %d/%d.
+arcanearchives.success.upgraded_tank=Резервуар улучшен до уровня %d/%d.
+
+arcanearchives.tooltip.notimplemented1=НЕ РЕАЛИЗОВАНО
+arcanearchives.tooltip.notimplemented2=Использование этого предмета может вызвать вылет игры!
+arcanearchives.tooltip.invalid_echo=Содержит эхо-потенциал ... ничего?
+arcanearchives.tooltip.echo_contained=Содержит эхо-потенциал %s.
+arcanearchives.tooltip.temprecipe1=Рецепт для этого предмета временный.
+arcanearchives.tooltip.temprecipe2=Он будет изменён в более поздней версии.
+arcanearchives.tooltip.shouldnothave=Этот блок не должен быть доступен для получения.
+arcanearchives.tooltip.creativeonly=Этот предмет в настоящее время доступен только через творческий режим.
+arcanearchives.tooltip.gemcharge=Заряд
+arcanearchives.tooltip.gemtoggle.active=Вкл
+arcanearchives.tooltip.gemtoggle.inactive=Выкл
+arcanearchives.tooltip.gemupgrade.matter=МАТЕРИЯ
+arcanearchives.tooltip.gemupgrade.power=СИЛА
+arcanearchives.tooltip.gemupgrade.space=ПРОСТРАНСТВО
+arcanearchives.tooltip.gemupgrade.time=ВРЕМЯ
+
+arcanearchives.tooltip.brazier.routingmode.all1=Предметы будут направлены
+arcanearchives.tooltip.brazier.routingmode.all2=в любое устройство в вашей сети.
+arcanearchives.tooltip.brazier.routingmode.mine1=Предметы будут направлены только
+arcanearchives.tooltip.brazier.routingmode.mine2=в устройства, установленные лично вами.
+arcanearchives.tooltip.brazier.visualizer.show1=Нажмите, чтобы показать визуализатор
+arcanearchives.tooltip.brazier.visualizer.show2=радиуса действия этой жаровни.
+arcanearchives.tooltip.brazier.visualizer.hide=Нажмите, чтобы скрыть визуализатор радиуса.
+arcanearchives.tooltip.brazier.radius.decrease=Уменьшить радиус жаровни на 10.
+arcanearchives.tooltip.brazier.radius.increase=Увеличить радиус жаровни на 10.
+arcanearchives.tooltip.devouringcharm.flip=Перевернуть пожирающий талисман.
+arcanearchives.tooltip.manifest.inanotherdim=Этот сундук находится в %s.
+arcanearchives.tooltip.manifest.chestsneak=[Зажмите Shift для просмотра расположения сундуков.]
+arcanearchives.tooltip.manifest.entry=%s на (%d,%d,%d) содержит %d.
+arcanearchives.tooltip.manifest.andmore=%d сияющих сундуков не указано.
+arcanearchives.tooltip.manifest.clicktoshow=Нажмите, чтобы нарисовать линию к сундукам, содержащим этот предмет. Откройте сундук, чтобы удалить, или нажмите "%s".
+arcanearchives.tooltip.manifest.outofrange=[Дальше вашей настроенной максимальной дистанции в %s блоков.]
+arcanearchives.tooltip.radiantchest.routingmode.any1=Жаровни накопительства могут вставлять
+arcanearchives.tooltip.radiantchest.routingmode.any2=любой предмет в этот сияющий сундук.
+arcanearchives.tooltip.radiantchest.routingmode.nonewitems1=Жаровни накопительства могут вставлять только те предметы,
+arcanearchives.tooltip.radiantchest.routingmode.nonewitems2=которые уже есть в этом сияющем сундуке.
+
+arcanearchives.tooltip.tank.fluid=Жидкость: %s
+arcanearchives.tooltip.tank.amount=Количество: %s/%s мВ
+arcanearchives.tooltip.amphora.unknown_fluid=неизвестная жидкость
+
+arcanearchives.tooltip.trove.items=Предмет: %s
+arcanearchives.tooltip.trove.contains=Содержит: %d/%d
+arcanearchives.tooltip.trove.voiding=Уничтожает избыточные предметы.
+
+arcanearchives.tooltip.device.brazier=Выброшенные предметы отправляются в сияющее хранилище. Сначала заполняются сокровищницы, затем сундуки.
+arcanearchives.tooltip.device.celestial_lotus_engine=Генерирует бесконечную имманенцию. Только для творческого режима.
+arcanearchives.tooltip.device.radiant_chest=Хранилище. Используется для хранения предметов.
+arcanearchives.tooltip.device.radiant_tank=Хранилище. Используется для хранения жидкостей.
+arcanearchives.tooltip.device.radiant_resonator=Со временем генерирует необработанный сияющий кварц, если блок над ним свободен.
+arcanearchives.tooltip.device.radiant_lantern=Декоративный. Источник света.
+arcanearchives.tooltip.device.radiant_trove=Хранилище. Используется для хранения большого количества одного типа предметов.
+arcanearchives.tooltip.device.radiant_crafting_table=Верстак. Предметы остаются на месте, три рецепта можно сохранить для быстрого крафта, а также виден связанный инвентарь.
+arcanearchives.tooltip.device.gemcutters_table=Верстак. Используется для придания сияющему кварцу более детализированных форм.
+arcanearchives.tooltip.device.lectern_manifest=Используется для просмотра предметов, хранящихся в сияющем хранилище. Функционально идентичен манифесту.
+arcanearchives.tooltip.device.monitoring_crystal=Добавляет присоединённый инвентарь в сияющее хранилище для просмотра через манифест.
+
+arcanearchives.tooltip.item.raw_quartz=Крафтовый ингредиент. Также может использоваться для улучшения сундуков и верстаков до их сияющих версий.
+arcanearchives.tooltip.item.shaped_quartz=Крафтовый ингредиент.
+arcanearchives.tooltip.item.containment_field=Крафтовый ингредиент. Также может использоваться как улучшение второго уровня для сияющих резервуаров.
+arcanearchives.tooltip.item.devouring_charm=Уничтожает предметы и жидкости. Также может использоваться как опциональное улучшение для добавления уничтожения в сияющие резервуары и сокровищницы.
+arcanearchives.tooltip.item.debugorb=Используется для отладки проблем в сети. Очень техническая штука.
+arcanearchives.tooltip.item.letter_invitation=Позволяет пригласить другого игрока в вашу тайную сеть.
+arcanearchives.tooltip.item.letter_invitation.named=Приглашение присоединиться к тайной сети %s.
+arcanearchives.tooltip.item.letter_resignation=Позволяет вам покинуть тайную сеть.
+arcanearchives.tooltip.item.material_interface=Крафтовый ингредиент. Также может использоваться как улучшение второго уровня для сияющих сокровищниц.
+arcanearchives.tooltip.item.matrix_brace=Крафтовый ингредиент. Также может использоваться как улучшение первого уровня для сияющих резервуаров и сокровищниц.
+arcanearchives.tooltip.item.manifest=Используется для просмотра предметов, хранящихся в сияющем хранилище.
+arcanearchives.tooltip.item.manifest.open=ПКМ, чтобы открыть манифест.
+arcanearchives.tooltip.item.manifest.open.key=ПКМ или %s, чтобы открыть манифест.
+arcanearchives.tooltip.item.manifest.clear=ПКМ с крадущимся, чтобы очистить отслеживание инвентаря.
+arcanearchives.tooltip.item.manifest.clear.key=ПКМ с крадущимся или %s с крадущимся, чтобы очистить отслеживание инвентаря.
+arcanearchives.tooltip.item.quartz_sliver=Альтернатива факелам. Получите, разбив сияющий кварц о камень.
+arcanearchives.tooltip.item.radiant_amphora=Используется для переноса жидкостей в/из сияющего резервуара или резервуара матрицы.
+arcanearchives.tooltip.item.radiant_dust=Крафтовый ингредиент.
+arcanearchives.tooltip.item.radiant_key=Используется для безопасного открытия сундуков-ловушек и других вещей. Также может использоваться для "запирания" текущего предмета в качестве улучшения сияющей сокровищницы.
+arcanearchives.tooltip.item.raw_quartz_cluster=Со временем вырастает на сияющем резонаторе. Разбейте, чтобы собрать необработанный сияющий кварц. Можно собрать с помощью «Шёлкового касания» и разместить как декоративный блок.
+arcanearchives.tooltip.item.scepter_revelation=Запрашивает информацию об устройствах и контейнерах. Используйте, крадучись.
+arcanearchives.tooltip.item.scepter_manipulation=Изменяет свойства некоторых блоков. Используйте, крадучись.
+arcanearchives.tooltip.item.scintillating_inlay=Крафтовый ингредиент.
+arcanearchives.tooltip.item.storage_raw_quartz=Декоративный блок.
+arcanearchives.tooltip.item.storage_shaped_quartz=Декоративный блок. Также может использоваться как улучшение третьего уровня для сияющих резервуаров и сокровищниц.
+arcanearchives.tooltip.item.tome_arcana=Предоставляет документацию по Таинственным архивам.
+arcanearchives.tooltip.item.writ_expulsion=Позволяет исключить игрока из вашей тайной сети. Переименуйте на наковальне, чтобы указать, кого исключить.
+arcanearchives.tooltip.item.writ_expulsion.named=Приказ об исключении %s из вашей тайной сети.
+
+arcanearchives.tooltip.item.chromatic_powder=Возникла проблема; этот тип порошка не должен существовать!
+arcanearchives.tooltip.item.chromatic_powder.red=Поглощается красными тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.orange=Поглощается оранжевыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.yellow=Поглощается жёлтыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.green=Поглощается зелёными тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.cyan=Поглощается бирюзовыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.blue=Поглощается синими тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.purple=Поглощается фиолетовыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.pink=Поглощается розовыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.black=Поглощается чёрными тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.chromatic_powder.white=Поглощается белыми тайными самоцветами для перезарядки.
+arcanearchives.tooltip.item.full_spectrum_chromatic_powder=Поглощается тайными самоцветами любого цвета для перезарядки.
+
+arcanearchives.tooltip.gem.slaughtergleam=Увеличивает вашу добычу (looting).
+arcanearchives.tooltip.gem.murdergleam=Все атаки становятся критическими.
+arcanearchives.tooltip.gem.agegleam=Уменьшает таймер взросления животных и их возможности размножения.
+arcanearchives.tooltip.gem.cleansegleam=Убирает голод, тошноту и отравление. Крадитесь, чтобы использовать на других.
+arcanearchives.tooltip.gem.switchgleam=Меняется местами с выбранной сущностью. Блокирует телепортацию эндерменов, когда включён.
+arcanearchives.tooltip.gem.salvegleam=Восстанавливает здоровье, когда вы ранены.
+arcanearchives.tooltip.gem.munchstone=Используйте, чтобы потреблять растительные блоки в мире для восстановления голода.
+arcanearchives.tooltip.gem.transferstone=Извлекает один предмет из связанной сияющей сокровищницы. Отправляет избыток связанного предмета на хранение в связанную сокровищницу.
+arcanearchives.tooltip.gem.orderstone=Превращает некоторые блоки в более упорядоченное состояние.
+arcanearchives.tooltip.gem.mindspindle=Увеличивает количество опыта в подбираемых сферах опыта.
+arcanearchives.tooltip.gem.elixirspindle=Позволяет использовать эффекты зелий мгновенно и без их расходования.
+arcanearchives.tooltip.gem.mountaintear=Медленно создаёт бесконечную лаву, если поместить в Световой колодец.
+arcanearchives.tooltip.gem.rivertear=Быстро создаёт бесконечную воду, если поместить в Световой колодец.
+arcanearchives.tooltip.gem.parchtear=Уничтожает блоки жидкости в небольшой области. Крадитесь, чтобы уничтожить один блок жидкости.
+arcanearchives.tooltip.gem.phoenixway=Зажигает огонь в целевой позиции. Даёт сопротивление огню, если вы собираетесь получить урон от огня.
+arcanearchives.tooltip.gem.stormway=Призывает удары молний, даёт баффы при ударе молнией и отвечает на атаки снарядами.
+
+arcanearchives.tooltip.gem.recharge.slaughtergleam=Потребляет золотые самородки в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.murdergleam=Наносите обычные критические удары для перезарядки.
+arcanearchives.tooltip.gem.recharge.agegleam=Медленно перезаряжается, пока находится в руке.
+arcanearchives.tooltip.gem.recharge.cleansegleam=Потребляет молоко в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.switchgleam=Поглощает и нейтрализует телепортации эндерменов поблизости для перезарядки.
+arcanearchives.tooltip.gem.recharge.salvegleam=Убивайте пассивных животных для перезарядки.
+arcanearchives.tooltip.gem.recharge.munchstone=Потребляет костную муку в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.transferstone=Имеет бесконечный заряд.
+arcanearchives.tooltip.gem.recharge.orderstone=Получайте опыт, пока держите в руке, для зарядки.
+arcanearchives.tooltip.gem.recharge.mindspindle=Потребляет книги в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.elixirspindle=Потребляет адский нарост в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.mountaintear=Бросьте в лаву для перезарядки.
+arcanearchives.tooltip.gem.recharge.rivertear=Бросьте в воду для перезарядки.
+arcanearchives.tooltip.gem.recharge.parchtear=Вставьте в слот уничтожения вёдер в пожирающем талисмане для перезарядки.
+arcanearchives.tooltip.gem.recharge.phoenixway=Потребляет порох в вашем инвентаре для перезарядки.
+arcanearchives.tooltip.gem.recharge.stormway=Держите в руке или бросьте во время бури для перезарядки.
+
+arcanearchives.tooltip.amphora.linked=Связана с резервуаром на [%d,%d,%d] (в %s), который содержит жидкость: %s
+
+arcanearchives.tooltip.bauble.gemsocket=Можно вставить тайный самоцвет. Вставленный самоцвет считается постоянно находящимся в руке.
+arcanearchives.tooltip.bauble.gemsocket.contains=Содержит
+
+arcanearchives.data.gui.radiant_trove.upgrade=%s улучшение
+arcanearchives.data.gui.radiant_trove.upgrades=%s улучшения
+
+arcanearchives.data.tooltip.chest_name=Имя:
+arcanearchives.data.tooltip.resonator_progress=Прогресс:
+arcanearchives.data.tooltip.resonator_status.resonating=Резонирует
+arcanearchives.data.tooltip.resonator_status.offline=Не в сети
+arcanearchives.data.tooltip.resonator_status.obstruction=Заблокирован
+arcanearchives.data.tooltip.resonator_status.harvestable=Готов к сбору
+arcanearchives.data.tooltip.trove_count= из:
+arcanearchives.data.tooltip.trove_count_waila=%d из: %s
+arcanearchives.data.tooltip.empty=Пусто.
+
+arcanearchives.data.scepter.missing_te=Ошибка: отсутствует сущность блока.
+
+arcanearchives.data.scepter.radiant_chest.unnamed=Безымянный сияющий сундук.
+arcanearchives.data.scepter.radiant_chest.name=Сияющий сундук с именем: %s.
+arcanearchives.data.scepter.radiant_chest.slots=Имеет %d свободных слотов.
+
+arcanearchives.data.scepter.radiant_crafting.contains=Сияющий верстак содержит: %s.
+arcanearchives.data.scepter.radiant_crafting.empty=Сияющий верстак пуст.
+
+arcanearchives.data.scepter.radiant_trove.empty=Сияющая сокровищница не связана ни с каким предметом.
+arcanearchives.data.scepter.radiant_trove.item=Сияющая сокровищница настроена на хранение %s.
+arcanearchives.data.scepter.radiant_trove.count=Содержит %d/%d предметов.
+arcanearchives.data.scepter.radiant_trove.upgrades=Имеет %s улучшений хранения и %s опциональных улучшений.
+
+arcanearchives.data.scepter.radiant_tank.empty=Сияющий резервуар пуст.
+arcanearchives.data.scepter.radiant_tank.item=Сияющий резервуар хранит %s.
+arcanearchives.data.scepter.radiant_tank.count=Ёмкость для жидкости в данный момент: %d/%d.
+arcanearchives.data.scepter.radiant_tank.upgrades=Был улучшен %d раз(а).
+
+arcanearchives.data.scepter.radiant_resonator.progress=Текущий прогресс сияющего резонатора: %d%%
+arcanearchives.data.scepter.radiant_resonator.status=Текущий статус: %s.
+
+arcanearchives.data.scepter.monitoring_crystal.facing=Контролирующий кристалл обращён к %s.
+
+arcanearchives.data.scepter.tile.invalid=Недействительная сущность блока для этого блока!
+arcanearchives.data.scepter.tile.no_upgrades=Нет улучшений для удаления из этого устройства.
+arcanearchives.data.scepter.tile.cant_downgrade.trove=Слишком много хранимых предметов, невозможно понизить уровень!
+arcanearchives.data.scepter.tile.downgrade_success.trove=Улучшение успешно удалено! Теперь уровень %d/%d.
+
+arcanearchives.gui.keygroup=Таинственные архивы
+arcanearchives.gui.keybinds.manifest=Активировать манифест
+arcanearchives.gui.missing_manifest=У вас нет манифеста, чтобы его просматривать!
+arcanearchives.gui.keybinds.socket=Активировать гнездо для самоцвета
+
+text.copyToClipboard.line1=Книга хочет поместить текст в ваш буфер обмена.
+text.copyToClipboard.line2=Вы уверены, что хотите разрешить это?
+text.copyToClipboard.success=Текст успешно скопирован.
+cmd.gbook_snapshot.guide.done=Перезагрузка завершена
+
+jei.gui.resonator=Каждые %.1f минут(ы).
+
+# Сетевые сообщения
+arcanearchives.network.hive.successfully_added=Вы успешно добавлены в тайную сеть!
+arcanearchives.network.hive.successfully_removed_self=Вы были удалены из тайной сети.
+arcanearchives.network.hive.successfully_remove_player=Игрок был удалён из тайной сети.
+arcanearchives.network.hive.failed_add=Не удалось добавить вас в тайную сеть.
+arcanearchives.network.hive.failed_remove_self=Не удалось удалить вас из тайной сети.
+arcanearchives.network.hive.failed_remove_player=Не удалось удалить игрока из тайной сети.
+# Сетевые сообщения для предметов
+arcanearchives.network.hive.joined=Вы успешно присоединились к тайной сети %s!
+arcanearchives.network.hive.left=Вы успешно покинули свою тайную сеть!
+arcanearchives.network.hive.failed=Не удалось присоединиться к тайной сети!
+arcanearchives.network.hive.yours=Это уже ваша тайная сеть!
+arcanearchives.network.hive.left_failed=Вы не состоите в тайной сети, чтобы выйти.
+arcanearchives.network.hive.leaving_failed=Это письмо об отказе не предназначено для вас.
+arcanearchives.network.hive.expel_unnamed=Вы должны назвать этот приказ на наковальне, чтобы указать, кого исключить.
+arcanearchives.network.hive.expel_failed=Не удалось исключить %s из вашей тайной сети.
+arcanearchives.network.hive.expelled=Вы успешно исключили %s из вашей тайной сети.
+arcanearchives.network.hive.were_expelled=Вы были удалены из вашей тайной сети.
+arcanearchives.network.hive.expel_no_permission=У вас нет прав на использование этого предмета.
+arcanearchives.network.hive.joined_your_network=%s присоединился к вашей тайной сети!
+arcanearchives.network.hive.left_your_network=%s покинул вашу тайную сеть!
+arcanearchives.network.hive.disbanded=%s покинул вашу тайную сеть, оставив её пустой. Она была расформирована.
+
+arcanearchives.message.book_received.bookshelf=Что-то ценное было спрятано внутри этого блока!
+arcanearchives.message.book_received.resonator=Вы не помните, чтобы это было там раньше, но находите книгу на земле рядом с вашим верстаком.
+arcanearchives.message.usedtorecharge=%s%s использовано для перезарядки %s
+arcanearchives.message.invalid_crystal_target=Это устройство может быть прикреплено только к хранилищам не из «Таинственных архивов».
+
+advancement.arcanearchives.amphora=Ceci n'est pas un seau (Это не ведро)
+advancement.arcanearchives.amphora.desc=Создайте сияющую амфору для лёгкого переноса жидкостей из резервуаров.
+advancement.arcanearchives.brazier=Накопители
+advancement.arcanearchives.brazier.desc=Быстро сортируйте свои предметы! С помощью ... огня?
+advancement.arcanearchives.chest=Переливчатое хранилище
+advancement.arcanearchives.chest.desc=Используйте необработанный кварц, чтобы превратить скучные сундуки в нечто большее и красивое.
+advancement.arcanearchives.containment_field=Несдерживаемый
+advancement.arcanearchives.containment_field.desc=Создайте поле сдерживания как второе улучшение резервуара.
+advancement.arcanearchives.devouring_charm=Шире рот, скажи «А-а-а»
+advancement.arcanearchives.devouring_charm.desc=Создайте способ легко избавляться от предметов. Нижний мир не против.
+advancement.arcanearchives.gem_table=Романтика камней
+advancement.arcanearchives.gem_table.desc=Создайте стол огранщика самоцветов, чтобы расширить возможности крафта.
+advancement.arcanearchives.tome=Фолиант тайн
+advancement.arcanearchives.tome.desc=Получите или создайте фолиант тайн и узнайте секреты магиократии.
+advancement.arcanearchives.lectern_manifest=Шикарно
+advancement.arcanearchives.lectern_manifest.desc=Создайте манифест-аналой для централизованной индексации.
+advancement.arcanearchives.manifest=Очевидно
+advancement.arcanearchives.manifest.desc=Создайте манифест, чтобы удалённо просматривать вашу сеть в столе огранщика самоцветов.
+advancement.arcanearchives.material_interface=Материализм
+advancement.arcanearchives.material_interface.desc=Создайте материальный интерфейс как второе улучшение сокровищницы.
+advancement.arcanearchives.matrix_brace=Объятие
+advancement.arcanearchives.matrix_brace.desc=Создайте матричную опору как первое улучшение сокровищницы и резервуара.
+advancement.arcanearchives.network=Единство с ульем
+advancement.arcanearchives.network.desc=Создайте письмо-приглашение, чтобы позволить людям присоединиться к вашей сети.
+advancement.arcanearchives.raw_quartz=Хрустальное чувство
+advancement.arcanearchives.raw_quartz.desc=Получите ваш первый необработанный кварц.
+advancement.arcanearchives.raw_quartz_cluster=Наишикарнейший
+advancement.arcanearchives.raw_quartz_cluster.desc=Получите красивое скопление кристаллов необработанного кварца с помощью «Шёлкового касания».
+advancement.arcanearchives.resonator=Частота
+advancement.arcanearchives.resonator.desc=Постройте сияющий резонатор — не забудьте прогнать кошек.
+advancement.arcanearchives.root=Таинственные архивы
+advancement.arcanearchives.root.desc=Начните ваше путешествие с «Таинственными архивами».
+advancement.arcanearchives.scepter_manipulation=Подражатель Макиавелли
+advancement.arcanearchives.scepter_manipulation.desc=Создайте скипетр манипуляции и начните улучшать свои устройства.
+advancement.arcanearchives.revelation=Апокалипсис
+advancement.arcanearchives.revelation.desc=Создайте скипетр откровения, чтобы узнать больше обо всём.
+advancement.arcanearchives.storage_shaped_quartz=Шикарнее
+advancement.arcanearchives.storage_shaped_quartz.desc=Создайте блок обработанного кварца как третье улучшение резервуара и сокровищницы.
+advancement.arcanearchives.sliver=Управление гневом
+advancement.arcanearchives.sliver.desc=Позвольте ненависти течь через вас! Разбейте необработанный кварц, чтобы получить осколки света.
+advancement.arcanearchives.tank=Это не танк
+advancement.arcanearchives.tank.desc=Создайте сияющий резервуар в столе огранщика самоцветов. Храните всю жидкость!
+advancement.arcanearchives.trove=Сокровищница
+advancement.arcanearchives.trove.desc=Создайте сияющую сокровищницу в столе огранщика самоцветов. Храните всё, что угодно!
+advancement.arcanearchives.crafting_table=Переливчатое ремесло
+advancement.arcanearchives.crafting_table.desc=Используйте необработанный кварц, чтобы превратить скучный верстак во что-то постоянное.
+advancement.arcanearchives.monitoring_crystal=Большой брат
+advancement.arcanearchives.monitoring_crystal.desc=Создайте контролирующий кристалл для отслеживания предметов в других инвентарях.
+
+# Config
+arcanearchives.config.server_side_settings=Серверные настройки
+arcanearchives.config.server_side_settings.tooltip=Настройки, связанные с серверной функциональностью, такие как лимит резонаторов, время тиков и т.д.
+arcanearchives.config.server_side_settings.limit.tooltip=Лимит резонаторов на сеть игрока [по умолчанию 3]
+arcanearchives.config.server_side_settings.limit=Лимит резонаторов
+arcanearchives.config.server_side_settings.time=Время резонатора
+arcanearchives.config.server_side_settings.time.tooltip=Количество тиков для создания необработанного кварца [по умолчанию 6000]
+arcanearchives.config.server_side_settings.multiplier=Множитель слотов сияющего сундука
+arcanearchives.config.server_side_settings.multiplier.tooltip=Множитель, применяемый к слотам сияющего сундука [по умолчанию 4]
+
+arcanearchives.config.non_mod_tracking=Отслеживание контейнеров не из мода
+arcanearchives.config.non_mod_tracking.tooltip=Настройки, связанные с хранилищами не из мода (т.е. ванильными или из других модов), и отображением цветных фонов слотов для отслеживаемых предметов.
+arcanearchives.config.non_mod_tracking.ignore=Игнорируемый класс контейнера
+arcanearchives.config.non_mod_tracking.ignore.tooltip=Классы контейнеров, исключаемые из подсветки слотов на основе Mixin [список строк]
+arcanearchives.config.non_mod_tracking.disable=Отключить подсветку слотов не из мода
+arcanearchives.config.non_mod_tracking.disable.tooltip=Установите true, чтобы отключить подсветку слотов контейнеров не из «Таинственных архивов» при отслеживании предметов [по умолчанию false]
+
+arcanearchives.config.manifest=Настройки манифеста
+arcanearchives.config.manifest.tooltip=Настройки, связанные с визуальным отображением манифеста [клиентские]
+arcanearchives.config.manifest.presence=Наличие манифеста
+arcanearchives.config.manifest.presence.tooltip=Требуется ли наличие манифеста в инвентаре для открытия экрана манифеста с помощью горячей клавиши [по умолчанию true]
+arcanearchives.config.manifest.grid=Отключить сетку манифеста
+arcanearchives.config.manifest.grid.tooltip=Отключить наложение сетки на список предметов манифеста [по умолчанию true]
+
+arcanearchives.config.manifest.distance=Максимальная дистанция для предметов
+arcanearchives.config.manifest.distance.tooltip=Максимальная дистанция в блоках, после которой сундуки считаются вне дальности для манифеста, относительно вашей текущей позиции [по умолчанию 100]
+
+arcanearchives.config.manifest.jei=Синхронизировать JEI со строкой поиска
+arcanearchives.config.manifest.jei.tooltip=Синхронизировать текущий искомый предмет с полем поиска JEI. Предыдущий поисковый запрос JEI будет восстановлен при закрытии. [Требуется установленный JEI, по умолчанию false]
